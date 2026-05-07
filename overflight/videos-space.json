@@ -1,0 +1,106 @@
+[
+    {
+        "location": "ISS - Africa Night",
+        "title": "Africa at Night from the ISS",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT312_162NC_139M_1041_AFRICA_NIGHT_v14_SDR_FINAL_20180706_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT312_162NC_139M_1041_AFRICA_NIGHT_v14_HDR_FINAL_20180706_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT312_162NC_139M_1041_AFRICA_NIGHT_v14_SDR_FINAL_20180706_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT312_162NC_139M_1041_AFRICA_NIGHT_v14_HDR_FINAL_20180706_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "ISS - Africa and Middle East",
+        "title": "Africa and the Middle East from the ISS",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A103_C002_0205DG_v12_SDR_FINAL_20180706_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A103_C002_0205DG_v12_HDR_FINAL_20180706_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A103_C002_0205DG_v12_SDR_FINAL_20180706_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A103_C002_0205DG_v12_HDR_FINAL_20180706_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "ISS - California to Vegas",
+        "title": "California to Las Vegas from the ISS",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT306_139NC_139J_3066_CALI_TO_VEGAS_v07_SDR_FINAL_22062018_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT306_139NC_139J_3066_CALI_TO_VEGAS_v07_HDR_FINAL_22062018_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT306_139NC_139J_3066_CALI_TO_VEGAS_v07_SDR_FINAL_22062018_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT306_139NC_139J_3066_CALI_TO_VEGAS_v07_HDR_FINAL_22062018_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "ISS - Caribbean Day",
+        "title": "Caribbean in Daylight from the ISS",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT308_139K_142NC_CARIBBEAN_DAY_v09_SDR_FINAL_22062018_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT308_139K_142NC_CARIBBEAN_DAY_v09_HDR_FINAL_22062018_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT308_139K_142NC_CARIBBEAN_DAY_v09_SDR_FINAL_22062018_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT308_139K_142NC_CARIBBEAN_DAY_v09_HDR_FINAL_22062018_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "ISS - Caribbean",
+        "title": "Caribbean Orbital Pass",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A108_C001_v09_SDR_FINAL_22062018_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A108_C001_v09_HDR_FINAL_22062018_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A108_C001_v09_SDR_FINAL_22062018_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A108_C001_v09_HDR_FINAL_22062018_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "ISS - China",
+        "title": "China Coast from the ISS",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT329_113NC_396B_1105_CHINA_v04_SDR_FINAL_20180706_F900F2700_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT329_113NC_396B_1105_CHINA_v04_HDR_FINAL_20180706_F900F2700_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT329_113NC_396B_1105_CHINA_v04_SDR_FINAL_20180706_F900F2700_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT329_113NC_396B_1105_CHINA_v04_HDR_FINAL_20180706_F900F2700_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "ISS - Iran and Afghanistan",
+        "title": "Iran and Afghanistan from the ISS",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A083_C002_1130KZ_v04_SDR_PS_FINAL_20180725_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A083_C002_1130KZ_v04_HDR_PS_FINAL_20180725_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A083_C002_1130KZ_v04_SDR_PS_FINAL_20180725_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A083_C002_1130KZ_v04_HDR_PS_FINAL_20180725_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "ISS - Ireland to Asia",
+        "title": "Ireland to Asia Orbital Pass",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT329_117NC_401C_1037_IRELAND_TO_ASIA_v48_SDR_PS_FINAL_20180725_F0F6300_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT329_117NC_401C_1037_IRELAND_TO_ASIA_v48_HDR_PS_FINAL_20180725_F0F6300_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT329_117NC_401C_1037_IRELAND_TO_ASIA_v48_SDR_PS_FINAL_20180725_F0F6300_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT329_117NC_401C_1037_IRELAND_TO_ASIA_v48_HDR_PS_FINAL_20180725_F0F6300_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "ISS - Korea and Japan Night",
+        "title": "Korea and Japan at Night from the ISS",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT026_363A_103NC_E1027_KOREA_JAPAN_NIGHT_v17_SDR_FINAL_25062018_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT026_363A_103NC_E1027_KOREA_JAPAN_NIGHT_v17_HDR_FINAL_25062018_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT026_363A_103NC_E1027_KOREA_JAPAN_NIGHT_v17_SDR_FINAL_25062018_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT026_363A_103NC_E1027_KOREA_JAPAN_NIGHT_v17_HDR_FINAL_25062018_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "ISS - New Zealand",
+        "title": "New Zealand Sunrise from the ISS",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A105_C003_0212CT_FLARE_v10_SDR_PS_FINAL_20180711_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A105_C003_0212CT_FLARE_v10_HDR_PS_FINAL_20180711_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A105_C003_0212CT_FLARE_v10_SDR_PS_FINAL_20180711_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A105_C003_0212CT_FLARE_v10_HDR_PS_FINAL_20180711_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "ISS - Sahara and Italy",
+        "title": "Sahara to Italy from the ISS",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A009_C001_010181A_v09_SDR_PS_FINAL_20180725_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A009_C001_010181A_v09_HDR_PS_FINAL_20180725_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A009_C001_010181A_v09_SDR_PS_FINAL_20180725_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A009_C001_010181A_v09_HDR_PS_FINAL_20180725_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "ISS - Southern California to Baja",
+        "title": "SoCal to Baja from the ISS",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A114_C001_0305OT_v10_SDR_FINAL_22062018_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A114_C001_0305OT_v10_HDR_FINAL_22062018_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A114_C001_0305OT_v10_SDR_FINAL_22062018_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A114_C001_0305OT_v10_HDR_FINAL_22062018_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "ISS - West Africa to the Alps",
+        "title": "West Africa to the Alps from the ISS",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A001_C004_1207W5_v23_SDR_FINAL_20180706_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A001_C004_1207W5_v23_HDR_FINAL_20180706_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A001_C004_1207W5_v23_SDR_FINAL_20180706_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A001_C004_1207W5_v23_HDR_FINAL_20180706_HDR_4K_HEVC.mov"
+    }
+]
